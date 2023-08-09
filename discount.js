@@ -19,4 +19,5 @@ function ticketPrice(numberOfTicket){
 }
 let ticket = 290 ;
 let result = ticketPrice(ticket);
-console.log(result)
+console.log("Your Total bill is :",result)
+
